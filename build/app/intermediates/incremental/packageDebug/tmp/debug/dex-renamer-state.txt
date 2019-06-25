@@ -1,0 +1,4 @@
+#Tue Jun 25 10:38:09 CEST 2019
+base.0=/Users/administrator/SMF/FlutterCourse/instagram_clone/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
